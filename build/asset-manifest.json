@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.1bad4edb.css",
+    "main.js": "/WeatherApp/static/js/main.90b780ea.js",
+    "static/js/787.10a1f716.chunk.js": "/WeatherApp/static/js/787.10a1f716.chunk.js",
+    "static/media/slide9.jpg": "/WeatherApp/static/media/slide9.313036672fa3179fa666.jpg",
+    "static/media/slide4.jpg": "/WeatherApp/static/media/slide4.7014ae97dc897db7fa40.jpg",
+    "static/media/slide1.jpg": "/WeatherApp/static/media/slide1.c63fe18c2d5653971892.jpg",
+    "static/media/slide2.jpg": "/WeatherApp/static/media/slide2.460e9d3c506609294347.jpg",
+    "static/media/slide8.jpg": "/WeatherApp/static/media/slide8.9826025c8e636be060ae.jpg",
+    "static/media/slide3.jpg": "/WeatherApp/static/media/slide3.9fa049fe6ee69d67917d.jpg",
+    "static/media/slide5.jpg": "/WeatherApp/static/media/slide5.b5174275b91aaea42750.jpg",
+    "static/media/slide7.jpg": "/WeatherApp/static/media/slide7.e347be5b1f0554ef4af6.jpg",
+    "static/media/slide6.jpg": "/WeatherApp/static/media/slide6.1e5c812709068754f05a.jpg",
+    "static/media/bakh_Medium.woff": "/WeatherApp/static/media/bakh_Medium.a5bb5679a205ead3e084.woff",
+    "static/media/rainMoon.svg": "/WeatherApp/static/media/rainMoon.d8d366be29ebbc56fa91b696b705d15f.svg",
+    "static/media/cloudMoon.svg": "/WeatherApp/static/media/cloudMoon.ff944853eae32cfcf898e8e398fcd5e5.svg",
+    "index.html": "/WeatherApp/index.html",
+    "main.1bad4edb.css.map": "/WeatherApp/static/css/main.1bad4edb.css.map",
+    "main.90b780ea.js.map": "/WeatherApp/static/js/main.90b780ea.js.map",
+    "787.10a1f716.chunk.js.map": "/WeatherApp/static/js/787.10a1f716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bad4edb.css",
+    "static/js/main.90b780ea.js"
+  ]
+}
