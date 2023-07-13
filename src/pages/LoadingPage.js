@@ -25,11 +25,11 @@ const  LoadingPage = () => {
             {/* name app */}
             <div className="text-center">
                 <h2 className="text-4xl font-bold text-slate-900 mb-1">
-                نام برنامه
+                    وب اپ هواشناسی
                 </h2>
 
                 <p className="text-base font-thin text-slate-400">
-                برنامه هواشناسی
+                    نسخه ۱.۰.۰
                 </p>
             </div>
 
