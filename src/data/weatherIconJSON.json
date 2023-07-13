@@ -1,0 +1,13 @@
+{
+    "iconItem":{
+        "sun": "https://api.iconify.design/fluent-emoji-flat:sun.svg",
+        "nigth": "https://api.iconify.design/fluent-emoji-flat:crescent-moon.svg",
+        "sunCloud": "https://api.iconify.design/fluent-emoji-flat:sun-behind-cloud.svg",
+        "cloud": "https://api.iconify.design/fluent-emoji-flat:cloud.svg",
+        "rain": "https://api.iconify.design/fluent-emoji-flat:sun-behind-rain-cloud.svg",
+        "snowerRain": "https://api.iconify.design/fluent-emoji-flat:cloud-with-rain.svg",
+        "thunderstorm": "https://api.iconify.design/fluent-emoji-flat:cloud-with-lightning-and-rain.svg",
+        "snow": "https://api.iconify.design/fluent-emoji-flat:snowflake.svg",
+        "wind": "https://api.iconify.design/solar:wind-broken.svg?color=%236b7280"
+    }
+}

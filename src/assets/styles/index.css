@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@font-face {
+  font-family: "Bakh";
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/bakh_Medium.woff');
+}
+
+
+/* disable scroll bar */
+.no-scrollBar::-webkit-scrollbar {
+  display: none;
+}
+
+/* hide border bottom last item in settings */
+.item-setting::before{
+  content: "";
+  width: 90%;
+  height: 1px;
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+  transform: translateX(50%);
+  display: inline-block;
+  border-radius: 9999px;
+}
+
+.item-setting:last-child::before{
+  width: 0;
+}
+
