@@ -119,8 +119,7 @@ export function ToggleDarkMode () {
 
   // check and get cookie
   let resultMode = GetCookie("mode");
-
-
+    
   // set dark / light mode 
   switch (resultMode) {
     case "dark":
@@ -268,7 +267,7 @@ export function ConvertSecondToTime (secondValue) {
 
 // --------------- save cookie func start ---------------
 export function SetCookie (cookieName, cookieValue) {
-  document.cookie = `${cookieName}=${cookieValue}`;
+  document.cookie = `${cookieName}=${cookieValue}; path=/`;
 }
 // --------------- save cookie func end ---------------
 

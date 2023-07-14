@@ -28,8 +28,8 @@ const  LoadingPage = () => {
                     وب اپ هواشناسی
                 </h2>
 
-                <p className="text-base font-thin text-slate-400">
-                    نسخه ۱.۰.۰
+                <p className="text-base font-medium text-slate-400">
+                    Weather Application
                 </p>
             </div>
 
